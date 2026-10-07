@@ -9,7 +9,7 @@ def greet(name: str) -> str:
 
 
 def main() -> None:
-    print(greet("xzy"))
+    print(greet("练习"))
     print("这个文件正被 Git 管理着。")
 
 
