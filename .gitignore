@@ -16,3 +16,7 @@ Thumbs.db
 .env
 *.key
 passwords.txt
+
+
+*.log
+secret.txt
